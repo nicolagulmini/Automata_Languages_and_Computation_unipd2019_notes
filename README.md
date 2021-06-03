@@ -1,5 +1,5 @@
 # notes
-LaTeX notes from university courses or individual study. 
-Most of them are in Italian.
+LaTeX notes of Automata, Language and Computation (Automi, Linguaggi e Computazione) course from Computer Engineering master course at University of Padua, 2019.
+In Italian.
 
 Please report errors at nicolagulmini@gmail.com
